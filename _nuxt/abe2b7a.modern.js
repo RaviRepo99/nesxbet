@@ -1679,9 +1679,9 @@
                 }, [r._v("\n                retail@1xbet-team.com\n            ")]), r._v(" "), o("a", {
                     staticClass: "x-bet-shop-menu-contacts__item",
                     attrs: {
-                        href: "https://t.me/Retail_team_Main"
+                        href: "https://t.me/nesxbet"
                     }
-                }, [r._v("\n                @Retail_team_Main\n            ")])])
+                }, [r._v("\n                @nesxbet\n            ")])])
             }], !1, null, "b93755f2", null)),
             L = R.exports,
             D = o(75),
@@ -3971,13 +3971,13 @@
                 return o("a", {
                     staticClass: "x-bet-shop-agent-contacts__item",
                     attrs: {
-                        href: "mailto:retail@1xbet-team.com"
+                        href: "mailto:nesxbet@gmail.com"
                     }
                 }, [o("span", {
                     staticClass: "x-bet-shop-agent-contacts__name"
                 }, [r._v("e-mail")]), r._v(" "), o("span", {
                     staticClass: "x-bet-shop-agent-contacts__value"
-                }, [r._v("retail@1xbet-team.com")])])
+                }, [r._v("nesxbet@gmail.com")])])
             }, function() {
                 var r = this,
                     t = r.$createElement,
@@ -3985,13 +3985,13 @@
                 return o("a", {
                     staticClass: "x-bet-shop-agent-contacts__item",
                     attrs: {
-                        href: "https://t.me/Retail_team_Main"
+                        href: "https://t.me/nesxbet"
                     }
                 }, [o("span", {
                     staticClass: "x-bet-shop-agent-contacts__name"
                 }, [r._v("telegram")]), r._v(" "), o("span", {
                     staticClass: "x-bet-shop-agent-contacts__value"
-                }, [r._v("@Retail_team_Main")])])
+                }, [r._v("@nesxbet")])])
             }], !1, null, "a6cb89be", null).exports),
             va = Object(x.b)({
                 name: "XBetShopMainPage",

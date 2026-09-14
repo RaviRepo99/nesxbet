@@ -1674,9 +1674,9 @@
                 }, [r._v("\n                1xbet.com\n            ")]), r._v(" "), o("a", {
                     staticClass: "x-bet-shop-menu-contacts__item",
                     attrs: {
-                        href: "mailto:retail@1xbet-team.com"
+                        href: "mailto:retail@nesxbet.com"
                     }
-                }, [r._v("\n                retail@1xbet-team.com\n            ")]), r._v(" "), o("a", {
+                }, [r._v("\n                retail@nesxbet.com\n            ")]), r._v(" "), o("a", {
                     staticClass: "x-bet-shop-menu-contacts__item",
                     attrs: {
                         href: "https://t.me/nesxbet"
